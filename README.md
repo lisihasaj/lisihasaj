@@ -6,12 +6,6 @@ Below are my current public repositories with their GitHub Pages (or live site) 
 
 - [ToastRack](https://lisihasaj.github.io/ToastRack/) — C# project. Repo: https://github.com/lisihasaj/ToastRack
 
-- [react-sheet](https://tissue.chandlerprall.com/) — "Tissue... it's made up of living cells... get it?" (forked). Repo: https://github.com/lisihasaj/react-sheet
-
-- [agent](https://github.com/lisihasaj/agent) — Repository (no GitHub Pages published).
-
-- [lisihasaj](https://github.com/lisihasaj/lisihasaj) — My GitHub profile repository (this repo).
-
 
 <!--
 Notes:
