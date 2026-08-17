@@ -2,12 +2,15 @@
 
 # Hi, I'm Lisjan Hasaj 👋
 
-**Software Engineer** · Prishtina, Kosovo
+**Full-Stack Developer (JavaScript, C#, Python)** · Prishtina, Kosovo
 
-Full-stack engineer building enterprise web platforms — **.NET / Blazor** on the front line,
-**React** and **Python / FastAPI** close behind. I currently engineer project-management
-software used in production by the German real-estate sector, and I maintain open-source
-libraries for the Blazor ecosystem.
+6+ years building high-performance web applications for enterprises like **BMW Group** and
+**EBZ Group**, and helping startups build and scale their core products. I focus on
+well-architected software that is secure, performant, and built for long-term growth —
+and I maintain open-source libraries for the Blazor ecosystem.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lisjan--hasaj-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisjan-hasaj)
+[![Email](https://img.shields.io/badge/Email-lisihasaj%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:lisihasaj@gmail.com)
 
 </div>
 
@@ -31,28 +34,56 @@ anchoring, full CSS-variable theming and accessibility built in. Targets .NET 8 
 
 ---
 
-## 🏢 Enterprise & Client Work
+## 🏢 Enterprise Experience
 
-Production systems I've engineered in cooperation with companies — the source lives in
-private repositories, so here is what they are rather than the code itself.
+Production systems I've engineered with major companies — the source lives in private
+repositories, so here is what they are rather than the code itself.
 
-### EBZ Project Cockpit — EBZ Group 🇩🇪
+### EBZ Group — Ravensburg, Germany 🇩🇪 · *2023 – present*
 
-Enterprise project- and resource-management platform for **EBZ Group**, an education and
-services group for the German housing and real-estate industry.
+Full-Stack Developer on an enterprise project- and resource-management platform.
+`.NET · Blazor · EF Core · MsSQL · Redis · Azure · WebSocket`
 
-- Modular **Blazor WebAssembly** solution on the latest **.NET**, developed in a distributed team
-- Real-time collaboration with **SignalR**, background processing with **Hangfire**
-- Project planning, resource planning and reporting modules on **Entity Framework / SQL**
-- **GitLab CI/CD** pipelines with **SonarQube** quality gates and automated test suites
+- Modular **Blazor** solution on the latest **.NET**, developed in a distributed team
+- Refactored legacy API controllers into lean services — average latency cut from **8 s to 0.85 s**
+- Redesigned complex UI workflows for large hierarchical datasets; **95% frontend unit test coverage**
 
-### GeoCAD Platform — GeoCAD 🇽🇰
+### BMW Group — Munich, Germany 🇩🇪 · *2022 – 2023*
 
-Full-stack web platform for **GeoCAD**, a geodesy and surveying company.
+JavaScript Engineer on BMW Group's high-traffic e-commerce storefront and CMS applications.
+`Express.js · TypeScript · PostgreSQL · Vue.js · Storybook · Tailwind`
 
-- **Python / FastAPI** REST backend with **PostgreSQL**
-- **React** public site (internationalized) and admin interface
-- Multi-service **Docker** deployment behind **nginx**, single-source environment configuration
+- Custom **Node.js** services and server-side rendering APIs — page load performance **+35%**
+- Built a private, reusable **UI component library** adopted across multiple front-end applications
+
+### Ringana GmbH — Hartberg, Austria 🇦🇹 · *2025 – 2026*
+
+Full-Stack Developer on a large-scale e-commerce platform.
+`NestJS · TypeScript · PostgreSQL · Prisma · Vue.js · Nuxt · .NET`
+
+- Developed and maintained **20+ micro-services** and Vue/Nuxt micro-frontends at **99.9% availability**
+- Domain-driven backend restructuring — duplicated logic **−40%**, shared npm libraries for
+  linting, security and common components across teams
+
+### TornyTrade Inc — New Jersey, US 🇺🇸 · *2023 – 2024*
+
+Full-Stack Developer on a real-time trading platform for the US market.
+`React · Next.js · TypeScript · FastAPI · PostgreSQL · WebSocket · Playwright`
+
+- Real-time trading dashboard — live charting, live chat, virtualized market tables
+- **FastAPI** backend integrating external trading & payment providers, **100%** unit and E2E test coverage
+
+*Earlier: Front-End Developer at **Kutia LLC** and **UNE LLC** (Prishtina, Kosova), 2019 – 2022.*
+
+---
+
+## 🚀 Client & Side Projects
+
+### GeoCAD Platform 🇽🇰
+
+Full-stack web platform for **GeoCAD**, a geodesy and surveying company — **FastAPI + PostgreSQL**
+backend, internationalized **React** public site and admin interface, multi-service **Docker**
+deployment behind **nginx**.
 
 ### Modular CMS *(in development)*
 
@@ -63,15 +94,23 @@ admin and web services, built to power client sites from one deployable stack.
 
 ## 🛠 Tech I work with
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MsSQL](https://img.shields.io/badge/MsSQL-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqubeserver&logoColor=white)
 
@@ -79,6 +118,6 @@ admin and web services, built to power client sites from one deployable stack.
 
 <div align="center">
 
-📍 Prishtina, Kosovo · ✉️ [lisjan_hasaj@hotmail.com](mailto:lisjan_hasaj@hotmail.com) · 💼 Open to interesting problems
+📍 Prishtina, Kosovo · ✉️ [lisihasaj@gmail.com](mailto:lisihasaj@gmail.com) · 🎓 MSc Computer Science & Engineering, UBT · 💼 Open to interesting problems
 
 </div>
