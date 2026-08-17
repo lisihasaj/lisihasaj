@@ -77,21 +77,6 @@ Full-Stack Developer on a real-time trading platform for the US market.
 
 ---
 
-## 🚀 Client & Side Projects
-
-### GeoCAD Platform 🇽🇰
-
-Full-stack web platform for **GeoCAD**, a geodesy and surveying company — **FastAPI + PostgreSQL**
-backend, internationalized **React** public site and admin interface, multi-service **Docker**
-deployment behind **nginx**.
-
-### Modular CMS *(in development)*
-
-A modular, self-hosted CMS of my own design — **FastAPI + PostgreSQL** core with separate
-admin and web services, built to power client sites from one deployable stack.
-
----
-
 ## 🛠 Tech I work with
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
