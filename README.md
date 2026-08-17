@@ -2,9 +2,9 @@
 
 # Hi, I'm Lisjan Hasaj 👋
 
-**Full-Stack Developer (JavaScript, C#, Python)** · Prishtina, Kosovo
+**Software Engineer (JavaScript, C#, Python)** · Prishtina, Kosovo
 
-6+ years building high-performance web applications for enterprises like **BMW Group** and
+7 years building high-performance web applications for enterprises like **BMW Group** and
 **EBZ Group**, and helping startups build and scale their core products. I focus on
 well-architected software that is secure, performant, and built for long-term growth —
 and I maintain open-source libraries for the Blazor ecosystem.
