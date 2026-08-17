@@ -79,6 +79,6 @@ admin and web services, built to power client sites from one deployable stack.
 
 <div align="center">
 
-📍 Prishtina, Kosovo · 💼 Open to interesting problems
+📍 Prishtina, Kosovo · ✉️ [lisjan_hasaj@hotmail.com](mailto:lisjan_hasaj@hotmail.com) · 💼 Open to interesting problems
 
 </div>
