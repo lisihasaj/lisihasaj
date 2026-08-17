@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Lisjan Hasaj 👋
+# Hi, I'm Lisjan 👋
 
 **Software Engineer (JavaScript, C#, Python)** · Prishtina, Kosovo
 
@@ -39,7 +39,7 @@ anchoring, full CSS-variable theming and accessibility built in. Targets .NET 8 
 Production systems I've engineered with major companies — the source lives in private
 repositories, so here is what they are rather than the code itself.
 
-### EBZ Group — Ravensburg, Germany 🇩🇪 · *2023 – present*
+### EBZ Group — Ravensburg, Germany 🇩🇪 · _2023 – present_
 
 Full-Stack Developer on an enterprise project- and resource-management platform.
 `.NET · Blazor · EF Core · MsSQL · Redis · Azure · WebSocket`
@@ -48,7 +48,7 @@ Full-Stack Developer on an enterprise project- and resource-management platform.
 - Refactored legacy API controllers into lean services — average latency cut from **8 s to 0.85 s**
 - Redesigned complex UI workflows for large hierarchical datasets; **95% frontend unit test coverage**
 
-### BMW Group — Munich, Germany 🇩🇪 · *2022 – 2023*
+### BMW Group — Munich, Germany 🇩🇪 · _2022 – 2023_
 
 JavaScript Engineer on BMW Group's high-traffic e-commerce storefront and CMS applications.
 `Express.js · TypeScript · PostgreSQL · Vue.js · Storybook · Tailwind`
@@ -56,7 +56,7 @@ JavaScript Engineer on BMW Group's high-traffic e-commerce storefront and CMS ap
 - Custom **Node.js** services and server-side rendering APIs — page load performance **+35%**
 - Built a private, reusable **UI component library** adopted across multiple front-end applications
 
-### Ringana GmbH — Hartberg, Austria 🇦🇹 · *2025 – 2026*
+### Ringana GmbH — Hartberg, Austria 🇦🇹 · _2025 – 2026_
 
 Full-Stack Developer on a large-scale e-commerce platform.
 `NestJS · TypeScript · PostgreSQL · Prisma · Vue.js · Nuxt · .NET`
@@ -65,7 +65,7 @@ Full-Stack Developer on a large-scale e-commerce platform.
 - Domain-driven backend restructuring — duplicated logic **−40%**, shared npm libraries for
   linting, security and common components across teams
 
-### TornyTrade Inc — New Jersey, US 🇺🇸 · *2023 – 2024*
+### TornyTrade Inc — New Jersey, US 🇺🇸 · _2023 – 2024_
 
 Full-Stack Developer on a real-time trading platform for the US market.
 `React · Next.js · TypeScript · FastAPI · PostgreSQL · WebSocket · Playwright`
@@ -73,7 +73,7 @@ Full-Stack Developer on a real-time trading platform for the US market.
 - Real-time trading dashboard — live charting, live chat, virtualized market tables
 - **FastAPI** backend integrating external trading & payment providers, **100%** unit and E2E test coverage
 
-*Earlier: Front-End Developer at **Kutia LLC** and **UNE LLC** (Prishtina, Kosova), 2019 – 2022.*
+_Earlier: Front-End Developer at **Kutia LLC** and **UNE LLC** (Prishtina, Kosova), 2019 – 2022._
 
 ---
 
