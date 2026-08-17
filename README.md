@@ -1,19 +1,20 @@
 ## Hi there 👋
 
-Below are my current public repositories with their GitHub Pages (or live site) links when available, plus a short description for each.
+Below are my current public repositories with their GitHub Pages (or live site) linked on the title and a short description for each.
 
-- Deja — GitHub Pages: https://lisihasaj.github.io/Deja/ • C# project. Repo: https://github.com/lisihasaj/Deja
+- [Deja](https://lisihasaj.github.io/Deja/) — C# project. Repo: https://github.com/lisihasaj/Deja
 
-- ToastRack — GitHub Pages: https://lisihasaj.github.io/ToastRack/ • C# project. Repo: https://github.com/lisihasaj/ToastRack
+- [ToastRack](https://lisihasaj.github.io/ToastRack/) — C# project. Repo: https://github.com/lisihasaj/ToastRack
 
-- react-sheet — Live site: https://tissue.chandlerprall.com/ • "Tissue... it's made up of living cells... get it?" (forked). Repo: https://github.com/lisihasaj/react-sheet
+- [react-sheet](https://tissue.chandlerprall.com/) — "Tissue... it's made up of living cells... get it?" (forked). Repo: https://github.com/lisihasaj/react-sheet
 
-- agent — No GitHub Pages • Repo: https://github.com/lisihasaj/agent
+- [agent](https://github.com/lisihasaj/agent) — Repository (no GitHub Pages published).
 
-- lisihasaj (this profile repo) — No GitHub Pages • Repo: https://github.com/lisihasaj/lisihasaj
+- [lisihasaj](https://github.com/lisihasaj/lisihasaj) — My GitHub profile repository (this repo).
 
 
 <!--
 Notes:
-- Pages URLs for Deja and ToastRack point to the default GitHub Pages locations (https://<username>.github.io/<repo>/). If you prefer the titles to link to the repository instead, or if you want me to verify each Pages URL and replace any that 404 with the repo link, tell me and I will update the README.
+- I linked each project title to its GitHub Pages URL when a Pages/live site was available (Deja, ToastRack, react-sheet). For repositories without a Pages site I linked the title to the repository itself.
+- I couldn't reliably verify site reachability from this environment. If you want, I can check each URL and update the README to mark any that 404 or are unreachable.
 -->
