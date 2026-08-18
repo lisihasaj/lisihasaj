@@ -44,16 +44,23 @@ repositories, so here is what they are rather than the code itself.
 Full-Stack Developer on an enterprise project- and resource-management platform.
 `.NET · Blazor · EF Core · MsSQL · Redis · Azure · WebSocket`
 
-- Modular **Blazor** solution on the latest **.NET**, developed in a distributed team
+- Modular **Blazor** solution on the latest **.NET**, owning features end to end from
+  **EF Core** schema and migrations through API layer to UI
 - Refactored legacy API controllers into lean services — average latency cut from **8 s to 0.85 s**
+- Query and indexing work on large **MsSQL** hierarchies, with **Redis** caching and
+  **WebSocket** push for live collaborative updates
 - Redesigned complex UI workflows for large hierarchical datasets; **95% frontend unit test coverage**
+- Azure deployments and GitLab CI pipelines, with SonarQube quality gates enforced on every merge
 
 ### BMW Group — Munich, Germany 🇩🇪 · _2022 – 2023_
 
 JavaScript Engineer on BMW Group's high-traffic e-commerce storefront and CMS applications.
 `Express.js · TypeScript · PostgreSQL · Vue.js · Storybook · Tailwind`
 
-- Custom **Node.js** services and server-side rendering APIs — page load performance **+35%**
+- Custom **Node.js / Express** services and server-side rendering APIs — page load performance **+35%**
+- Modelled and queried **PostgreSQL** for catalog and content data behind the storefront and CMS
+- Integrated internal BMW Group APIs and third-party services, with caching and resilience
+  around slow upstreams
 - Built a private, reusable **UI component library** adopted across multiple front-end applications
 
 ### Ringana GmbH — Hartberg, Austria 🇦🇹 · _2025 – 2026_
@@ -61,17 +68,23 @@ JavaScript Engineer on BMW Group's high-traffic e-commerce storefront and CMS ap
 Full-Stack Developer on a large-scale e-commerce platform.
 `NestJS · TypeScript · PostgreSQL · Prisma · Vue.js · Nuxt · .NET`
 
-- Developed and maintained **20+ micro-services** and Vue/Nuxt micro-frontends at **99.9% availability**
+- Developed and maintained **20+ NestJS micro-services** and Vue/Nuxt micro-frontends at **99.9% availability**
+- Designed **Prisma / PostgreSQL** schemas and migrations, plus the message-driven contracts
+  services use to talk to each other
 - Domain-driven backend restructuring — duplicated logic **−40%**, shared npm libraries for
   linting, security and common components across teams
+- Bridged **.NET** back-office systems with the Node platform, keeping data consistent across both
 
 ### TornyTrade Inc — New Jersey, US 🇺🇸 · _2023 – 2024_
 
 Full-Stack Developer on a real-time trading platform for the US market.
 `React · Next.js · TypeScript · FastAPI · PostgreSQL · WebSocket · Playwright`
 
-- Real-time trading dashboard — live charting, live chat, virtualized market tables
 - **FastAPI** backend integrating external trading & payment providers, **100%** unit and E2E test coverage
+- **WebSocket** pipeline streaming market data from ingest through to the browser
+- **PostgreSQL** schema design for orders, positions and account history, with auth and
+  payment flows built end to end
+- Real-time trading dashboard — live charting, live chat, virtualized market tables
 
 _Earlier: Front-End Developer at **Kutia LLC** and **UNE LLC** (Prishtina, Kosova), 2019 – 2022._
 
